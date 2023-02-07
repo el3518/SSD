@@ -6,7 +6,7 @@ Please consider cite if you find this helpful.
 
 Citation
 ```
-@article{li202multidomain,
+@article{li2023multidomain,
   title={Multidomain Adaptation With Sample and Source Distillation},
   author={Li, Keqiuyin and Lu, Jie and Zuo, Hua and Zhang, Guangquan},
   journal={IEEE Transactions on Cybernetics},
