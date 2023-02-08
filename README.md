@@ -26,7 +26,7 @@ First, run "off31_presf.py" to train the source model.
 
 Then, run "off31_select.py" to select transferable samples.
 
-Next, run "off31_domain.py" to rank the importance of source domains.
+Next, run "off31_domain.py" to rank the importance of source domains and identify the dominant domain.
 
 Last, run "off31.py" to adapt source and target domain based on the selected samples and domain(s).
 
