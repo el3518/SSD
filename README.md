@@ -9,7 +9,9 @@ Code for the TCYB publication. The full paper can be found [here](https://doi.or
 - An enhancement mechanism to improve the performance across domains of source predictors by adapting pseudo-labeled and unlabeled target samples,
 - A new combination rule that not only estimates the combination weights but also identifies the dominant source domain
 
-
+## Overview
+![Framework-Source](https://github.com/el3518/SSD/blob/main/img/flowchart_s.jpg)
+![Framework-Adaptation](https://github.com/el3518/SSD/blob/main/img/flowchart_t.jpg)
 
 ## Setup
 Ensure that you have Python 3.7.4 and PyTorch 1.1.0
